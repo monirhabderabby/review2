@@ -1,0 +1,44 @@
+[
+ {
+   "Id": "5a5772e6-2484-49d3-9cb0-b4c37a3ec309",
+   "Name": "Brandon",
+   "username": "@Brandon123",
+   "review": "In my time with the 14-inch MacBook Pro and its M1 Pro chip, I didn't encounter a single instance of slowdown, even when editing photos with Lightroom and Photoshop CC,.",
+   "image": "https://www.sketchappsources.com/resources/source-image/profile-illustration-gunaldi-yunus.png"
+ },
+ {
+   "Id": "ecc86c19-9e85-44e1-96aa-10a65b827261",
+   "Name": "Keaton",
+   "username": "@Keaton123",
+   "review": "Superb performance\nCrazy long battery life\nBright and colorful display\nComfortable Magic Keyboard",
+   "image": "https://thumbs.dreamstime.com/z/businessman-avatar-image-beard-hairstyle-male-profile-vector-illustration-178545831.jpg"
+ },
+ {
+   "Id": "7a208cca-2871-45f8-91c0-12ef7009feb2",
+   "Name": "Hashim",
+   "username": "@Hashim123",
+   "review": "I like that Apple got rid of the Touch Bar screen up top, which I didn't really find useful on earlier MacBook Pro models, and instead replaced it with full-sized function keys that are easy to tap to adjust vol.",
+   "image": "https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/273856460_3192790390982133_938883794805446929_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeESPxkZJl7N5xiXNz2uGjpMSdwc1Rv5cfJJ3BzVG_lx8m-NhvLq7OuOzRSyrIWJzJBhfdmQRVsEjbUE3Y-poty7&_nc_ohc=Io8ZAgPoWHIAX-G7c2Z&tn=GLwaFq0L7LD1CJVX&_nc_ht=scontent.fdac27-2.fna&oh=00_AT8KRr_eTzo0jvK3dN8kv_tEe4NeeNOQ5a5WVBjctkXNZQ&oe=624FF7B6"
+ },
+ {
+   "Id": "bdbc0cc0-6325-4faf-b91b-949932867554",
+   "Name": "Jacob",
+   "username": "@Jacob123",
+   "review": "The 14-inch MacBook Pro lasted 12 hours and 35 minutes in our benchmark, while the 16-inch went for 16 hours and 34 minutes.",
+   "image": "https://scontent.fdac27-2.fna.fbcdn.net/v/t31.18172-8/18449415_1897582743836244_7029105599755125720_o.jpg?_nc_cat=106&ccb=1-5&_nc_sid=174925&_nc_eui2=AeGiZe21Ut6dxN_9bwRcZjqXPIZC6F455ek8hkLoXjnl6YjzzyRcI4iklmGc93aEdHfBTE2xnIwcEUnk4iDGwkVN&_nc_ohc=d8DCxBgKd8oAX_SJXZ1&_nc_ht=scontent.fdac27-2.fna&oh=00_AT_J2zE3pTkMVj_SUAqpfj1hDD9ZFibSSUGYPWN-12I3Dw&oe=6271CE3E"
+ },
+ {
+   "Id": "b47b662a-883d-4de9-81f8-406edbe818a3",
+   "Name": "Eugene",
+   "username": "@Eugene123",
+   "review": "The MacBook Pro 16-inch (2021) is a powerful machine that changes course on many of Apple’s design decisions over the last few years. If you can afford the price of entry, it’s the best MacBook so far.",
+   "image": "https://scontent.fdac27-1.fna.fbcdn.net/v/t1.6435-9/36199715_2099907810270402_2285087863223615488_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFAbHo5BFkir0f-KTDUA8yrNx7bKYCmNyw3HtspgKY3LMtksMotmv_bSJrD3hNCAc8dda3ukjQTkvJ_9Vzz8zod&_nc_ohc=60wz86L56LEAX_8CQYN&_nc_ht=scontent.fdac27-1.fna&oh=00_AT8bubXdkCGm68C-QwWzetY4Vt0BYcDJnjShd3EW5AGpew&oe=62727ACA"
+ },
+ {
+   "Id": "1cb8b500-cc0b-4c58-96d8-b12aa0bb58e0",
+   "Name": "Albert",
+   "username": "@Albert123",
+   "review": "the new MacBook Pros with M1 Pro and M1 Max chips are incredible — the fastest laptops we’ve ever tested in some tasks, with some of the longest battery life we’ve ever seen.",
+   "image": "https://scontent.fdac27-1.fna.fbcdn.net/v/t31.18172-8/16665059_1849696998624819_1525196111742031384_o.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHphcncwdp5VsOd3c6go9WGeA9yG9zOuyN4D3Ib3M67I1u1rMYeogp64XflFjUaOEXQKeqA6Q-H5cqxnERblIPh&_nc_ohc=gqT5UMVpdawAX8059zk&tn=GLwaFq0L7LD1CJVX&_nc_ht=scontent.fdac27-1.fna&oh=00_AT-hy5-vkuuYVMhrJ_EsjHitlCDVSJVQTB2UcDbb1ZMpPg&oe=627242DF"
+ }
+]
